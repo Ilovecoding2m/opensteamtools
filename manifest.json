@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "packages": [
+    {
+      "id": "cwtools",
+      "name": "CwTools",
+      "version": "1.0.0",
+      "description": "CwTools package",
+      "image": "YOUR_IMAGE_URL",
+      "download": "YOUR_CWTOOLS_ZIP_URL"
+    }
+  ]
+}
