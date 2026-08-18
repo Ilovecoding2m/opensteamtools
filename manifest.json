@@ -1,9 +1,9 @@
 [
   {
     "id": "cwtools",
-    "name": "CwTools",
-    "description": "CwTools for Steam",
-    "imageUrl": "",
+    "name": "SteamFixer",
+    "description": "Fixes all steam related issues such as: purchase, no internet conection, games not showing.",
+    "imageUrl": "https://i.imgur.com/cCzmkmL.png",
     "downloadUrl": "https://github.com/Ilovecoding2m/opensteamtools/releases/download/1.0.0/cwtools.zip",
     "version": "1.0.0",
     "category": "Tools",
